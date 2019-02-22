@@ -1,0 +1,13 @@
+C:\Users\annul\source\repos\AnagramBeast\AnagramBeast\bin\release\netcoreapp2.0\ubuntu.16.04-x64\libhostpolicy.so
+C:\Users\annul\source\repos\AnagramBeast\AnagramBeast\bin\release\netcoreapp2.0\ubuntu.16.04-x64\libhostfxr.so
+C:\Users\annul\source\repos\AnagramBeast\AnagramBeast\bin\release\netcoreapp2.0\ubuntu.16.04-x64\AnagramBeast
+C:\Users\annul\source\repos\AnagramBeast\AnagramBeast\bin\release\netcoreapp2.0\ubuntu.16.04-x64\AnagramBeast.deps.json
+C:\Users\annul\source\repos\AnagramBeast\AnagramBeast\bin\release\netcoreapp2.0\ubuntu.16.04-x64\AnagramBeast.runtimeconfig.json
+C:\Users\annul\source\repos\AnagramBeast\AnagramBeast\bin\release\netcoreapp2.0\ubuntu.16.04-x64\AnagramBeast.runtimeconfig.dev.json
+C:\Users\annul\source\repos\AnagramBeast\AnagramBeast\bin\release\netcoreapp2.0\ubuntu.16.04-x64\AnagramBeast.dll
+C:\Users\annul\source\repos\AnagramBeast\AnagramBeast\bin\release\netcoreapp2.0\ubuntu.16.04-x64\AnagramBeast.pdb
+C:\Users\annul\source\repos\AnagramBeast\AnagramBeast\obj\release\netcoreapp2.0\ubuntu.16.04-x64\AnagramBeast.csproj.CoreCompileInputs.cache
+C:\Users\annul\source\repos\AnagramBeast\AnagramBeast\obj\release\netcoreapp2.0\ubuntu.16.04-x64\AnagramBeast.AssemblyInfoInputs.cache
+C:\Users\annul\source\repos\AnagramBeast\AnagramBeast\obj\release\netcoreapp2.0\ubuntu.16.04-x64\AnagramBeast.AssemblyInfo.cs
+C:\Users\annul\source\repos\AnagramBeast\AnagramBeast\obj\release\netcoreapp2.0\ubuntu.16.04-x64\AnagramBeast.dll
+C:\Users\annul\source\repos\AnagramBeast\AnagramBeast\obj\release\netcoreapp2.0\ubuntu.16.04-x64\AnagramBeast.pdb

@@ -1,0 +1,11 @@
+C:\Users\annul\source\repos\AnagramBeast\AnagramBeast\bin\Debug\netcoreapp2.0\AnagramBeast.deps.json
+C:\Users\annul\source\repos\AnagramBeast\AnagramBeast\bin\Debug\netcoreapp2.0\AnagramBeast.runtimeconfig.json
+C:\Users\annul\source\repos\AnagramBeast\AnagramBeast\bin\Debug\netcoreapp2.0\AnagramBeast.runtimeconfig.dev.json
+C:\Users\annul\source\repos\AnagramBeast\AnagramBeast\bin\Debug\netcoreapp2.0\AnagramBeast.dll
+C:\Users\annul\source\repos\AnagramBeast\AnagramBeast\bin\Debug\netcoreapp2.0\AnagramBeast.pdb
+C:\Users\annul\source\repos\AnagramBeast\AnagramBeast\obj\Debug\netcoreapp2.0\AnagramBeast.csproj.CoreCompileInputs.cache
+C:\Users\annul\source\repos\AnagramBeast\AnagramBeast\obj\Debug\netcoreapp2.0\AnagramBeast.AssemblyInfoInputs.cache
+C:\Users\annul\source\repos\AnagramBeast\AnagramBeast\obj\Debug\netcoreapp2.0\AnagramBeast.AssemblyInfo.cs
+C:\Users\annul\source\repos\AnagramBeast\AnagramBeast\obj\Debug\netcoreapp2.0\AnagramBeast.dll
+C:\Users\annul\source\repos\AnagramBeast\AnagramBeast\obj\Debug\netcoreapp2.0\AnagramBeast.pdb
+C:\Users\annul\source\repos\AnagramBeast\AnagramBeast\obj\Debug\netcoreapp2.0\AnagramBeast.csprojResolveAssemblyReference.cache
